@@ -1,3 +1,7 @@
+'''
+This is the primitive sprite system used in balatro.py, this script was the playground used to hardcore cards faces' sprites in the game.
+'''
+
 from kandinsky import *
 D="007a2b7a6a4b6a5a6b5a4a8b4a3a9b1b3a2a9b3b2a1a9b5b1a"
 S="7a2c7a6a4c6a5a6c5a4a8c4a3a9c1c3a2a9c3c2a1a9c5c1a1a9c5c1a1a9c5c1a2a3c2a2c2a3c2a7a2c7a7a2c7a6a4c6a5a6c5a"
