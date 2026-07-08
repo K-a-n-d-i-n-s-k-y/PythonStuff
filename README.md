@@ -8,6 +8,8 @@ some experimental project in there might become something if I ever get back to 
 
 Don't judge my optimisation, most of those had to run on [Numworks hardware](https://www.numworks.com/engineering/specs/) with a whopping unstable 45hz refresh rate
 
+Not much is commented, I might improve that someday.
+
 Nonetheless I'm still impressed by what's possible with little imagination and little computing power on these.
 
 
