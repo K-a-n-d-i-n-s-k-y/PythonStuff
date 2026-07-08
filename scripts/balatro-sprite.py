@@ -11,7 +11,7 @@ def draw_sprite(s,x,y):
   xc=0
   col={"a":(255,255,255),"b":(255,100,0),"c":(0,0,0),"d":(0,255,0),"e":(255,0,0)}
   s = [s[i]+s[i+1] for i in range(0,len(s)-1,2)]
-  if s[0] == "00":
+  if s[0] == "00": # Mirror operator, halves the memory used by a sprite that mirrors vertically
     s = s[1:]+s[-1:0:-1]
   for (n,c) in s:
     n=int(n)
